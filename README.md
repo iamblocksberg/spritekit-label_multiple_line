@@ -1,2 +1,3 @@
-# spritekit-label_multiple_line
-How to create SKLabel Multiple Line
+# Spritekit - Label Multiple Line
+
+How to create Label from Sprite Kit (SKLabelNode) Multiple Line

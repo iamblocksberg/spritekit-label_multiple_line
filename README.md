@@ -18,4 +18,4 @@ label.preferredMaxLayoutWidth = 500
 ```
 
 
-(More lineBreakNode)[https://developer.apple.com/documentation/uikit/nslinebreakmode]
+[More lineBreakNode](https://developer.apple.com/documentation/uikit/nslinebreakmode)

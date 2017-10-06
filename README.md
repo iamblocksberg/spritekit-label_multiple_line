@@ -8,12 +8,6 @@ How to create Label from Sprite Kit (SKLabelNode) Multiple Line
 4. set width of label
 
 
-v
-
-v
-
-v
-
 
 ```swift
 let label = self.childNode(withName: "helloLabel") as? SKLabelNode
